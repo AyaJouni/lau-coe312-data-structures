@@ -9,6 +9,7 @@ The material of the course can be downloaded from the course's [webpage](https:/
 - **Lectures**: T/Th 9:30 a.m. - 10:45 a.m. and 2:00 p.m. - 3:15 p.m.
 - **Locations**: Zakhem Eng. 606 (Morning) and Zakhem Eng. 403 (Afternoon)
 - **Office hours**: T/Th 11:00 a.m. - 1:30 p.m. and W 10:00 a.m. - 12:00 p.m.
+- **office location**: 103, Bassil Bldg, ext: 2414 
 
 ## Overview
 
